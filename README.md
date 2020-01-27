@@ -6,4 +6,4 @@
 
 Here is a brief bio about me. I am interested in business!
 
-[Blumenstock reponse](https://www.nature.com/magazine-assets/d41586-018-06215-5/d41586-018-06215-5.pdf)
+[Blumenstock reponse](https://github.com/ohzhang7/workshop/blob/master/blumenstock.md)
