@@ -6,4 +6,4 @@
 
 Here is a brief bio about me. I am interested in business!
 
-[Blumenstock reponse](https://github.com/ohzhang7/workshop/blumenstock)
+[Blumenstock reponse](https://ohzhang7.github.io/workshop/blumenstock)
