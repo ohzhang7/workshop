@@ -7,7 +7,7 @@ then estimates the random forest model and predicts the per-pixel population den
 different from normal statiscal approaches since it is capable of coming to a conclusion about data itself while also still obtaining data.
 It stil self-sufficient, and only needs a few things(in the random forest estimation technique's case) to work.
 
-3.Some of the covariates used were related to different kinds of land cover, a census of the population, lights at night, distance of roads,
+3. Some of the covariates used were related to different kinds of land cover, a census of the population, lights at night, distance of roads,
 size of bodies of water, and different towns, cities, and villages.The boundaries were set to the country borders, and then buffered by 10
 kilometers. Because the data in big data is so large, machine learning methods are much more effective when combined with big data because
 computers can already process information faster than humans can. By setting up a algorithm that lets computers automatically infer and
